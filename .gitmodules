@@ -1,13 +1,10 @@
-[submodule "oboe"]
+
+[submodule "android/src/main/cpp/external/oboe"]
 	path = android/src/main/cpp/external/oboe
 	url = git@github.com:google/oboe.git
-
-
-[submodule "flac"]
+[submodule "android/src/main/cpp/external/decoders/flac"]
 	path = android/src/main/cpp/external/decoders/flac
 	url = git@github.com:xiph/flac.git
-
-[submodule "ogg"]
+[submodule "android/src/main/cpp/external/decoders/ogg"]
 	path = android/src/main/cpp/external/decoders/ogg
 	url = git@github.com:xiph/ogg.git
-
