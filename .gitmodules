@@ -5,7 +5,7 @@
 
 [submodule "flac"]
 	path = android/src/main/cpp/external/decoders/flac
-	url = git://github.com/xiph/ogg.git
+	url = git://github.com/xiph/flac.git
 
 [submodule "ogg"]
 	path = android/src/main/cpp/external/decoders/ogg
